@@ -7,7 +7,7 @@ This notebook explores the relationship between social media usage and various f
 ### Correlation Analysis
 
 *   Strong positive correlations were observed between average daily social media usage hours and addicted score (~0.83), addicted score and conflicts over social media (~0.93), and mental health score and sleep hours per night (~0.71).
-*   Strong negative correlations were found between average daily usage hours and sleep hours per night (~-0.79), average daily usage hours and mental health score (~-0.80), and addicted score and mental health score (0.95).
+*   Strong negative correlations were found between average daily usage hours and sleep hours per night (~0.79), average daily usage hours and mental health score (~0.80), and addicted score and mental health score (~0.95).
 
 These correlations suggest significant relationships between social media usage, sleep, mental health, conflicts, and addiction score.
 
